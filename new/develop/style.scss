@@ -1553,7 +1553,7 @@ footer{
 }
 
 .contact__item.item-social .contact__item-img {
-    margin-right: .75rem;
+    margin-right: calc(0.75rem + 12px);
 }
 
 .contact__item-text,
