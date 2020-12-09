@@ -716,7 +716,7 @@ $(document).ready(function () {
 
     AOS.init({
         once: true,
-        duration: 300,
+        duration: 150,
         delay: 150,
         offset: 350
     });
